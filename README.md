@@ -412,5 +412,6 @@ int main() {
             </tr>
         </tbody>
     </table>
+```
 ## RESULT:
 Thus, the program has been executed using CUDA .
